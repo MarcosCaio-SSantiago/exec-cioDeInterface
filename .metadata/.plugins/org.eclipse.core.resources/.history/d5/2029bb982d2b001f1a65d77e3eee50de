@@ -1,0 +1,8 @@
+package model.service;
+
+public class ContractService {
+
+	 public void processContract(Integer contract contract, months) {
+		 
+	 }
+}
